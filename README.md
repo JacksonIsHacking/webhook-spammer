@@ -3,7 +3,8 @@
 2. If You Don't Know How To Get Your Discord Webhook Then Follow The Steps Below
 __________________________________________________________________________________________________________________________________________
 
-1. ![Untitled](https://github.com/JacksonIsHacking/webhook-spammer/assets/146037364/193f9746-cbef-4cde-ad24-cdcc03eb9826)
+1. ![]((https://github.com/JacksonIsHacking/webhook-spammer/assets/146037364/193f9746-cbef-4cde-ad24-cdcc03eb9826) =426x240)
+
 2. ![Untitled(1)](https://github.com/JacksonIsHacking/webhook-spammer/assets/146037364/a4a6e757-503c-4aa7-bacf-ddd0f7b86513)
 3. ![Screenshot 2023-09-25 223200](https://github.com/JacksonIsHacking/webhook-spammer/assets/146037364/6d4a37ae-10e7-40fd-b818-da4fe735f280)
 4. ![Untitled png 4](https://github.com/JacksonIsHacking/webhook-spammer/assets/146037364/a7e3d9ab-022c-400c-a0ed-20e4b8cffef5)
