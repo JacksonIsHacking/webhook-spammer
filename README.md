@@ -1,7 +1,7 @@
 <h1>Directions</h1>
 1. Open The Spammer.py File
 2. If You Don't Know How To Get Your Discord Webhook Then Follow The Steps Below
-___________________________________________________________________________________________________________________________________________
+
  ![Untitled](https://github.com/JacksonIsHacking/webhook-spammer/assets/146037364/193f9746-cbef-4cde-ad24-cdcc03eb9826)
  ![Untitled(1)](https://github.com/JacksonIsHacking/webhook-spammer/assets/146037364/a4a6e757-503c-4aa7-bacf-ddd0f7b86513)
  ![Screenshot 2023-09-25 223200](https://github.com/JacksonIsHacking/webhook-spammer/assets/146037364/6d4a37ae-10e7-40fd-b818-da4fe735f280)
