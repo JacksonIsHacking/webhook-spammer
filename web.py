@@ -20,12 +20,11 @@ def s(webhook, message, amount):
 
 def main():
     print(f"""{Fore.LIGHTRED_EX}
-     ____.              __                         
-    |    |____    ____ |  | __  __________   ____  
-    |    \__  \ _/ ___\|  |/ / /  ___/  _ \ /    \ 
-/\__|    |/ __ \\  \___|    <  \___ (  <_> )   |  \
-\________(____  /\___  >__|_ \/____  >____/|___|  /
-              \/     \/     \/     \/           \/ 
+        ___            __            
+ __ __ / _/__ __ ____ / /__ ___  ____
+ \ \ // _// // // __//  '_// -_)/ __/
+/_\_\/_/  \_,_/ \__//_/\_\ \__//_/   
+                                     
     """)
     webhook = input(time.strftime(f"\033[90m%H:%M:%S \033[90m[{Fore.LIGHTRED_EX}>>>>\033[90m] - {Fore.WHITE}Enter Webhook{Fore.LIGHTRED_EX}: "))
     amount = int(input(time.strftime(f"\033[90m%H:%M:%S \033[90m[{Fore.LIGHTRED_EX}>>>>\033[90m] - {Fore.WHITE}Enter Amount Of Messages{Fore.LIGHTRED_EX}: ")))
